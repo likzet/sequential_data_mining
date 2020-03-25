@@ -1,0 +1,11 @@
+The goal is to predict page views one week ahead.
+
+The competition is at Kaggle. Deadline is also there. The number of points depends on the quality of your solution.
+
+Link is the following:
+
+https://www.kaggle.com/t/8dcb8a465ca44eaeadb2b2f6a4db9fea (Links to an external site.)
+
+Please indicate your Skoltech name in the  information available at your profile at Kaggle. 
+
+Good luck!

@@ -3,7 +3,7 @@
 
 # Sequential data mining
 
-This repo supplements a course on sequential data processing taught at Skoltech in @january'20.
+This repo supplements an ISP course on sequential data processing taught at Skoltech in @january'20.
 
 ## General info
 * Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/likzet/sequential_data_mining/issues)
@@ -13,24 +13,30 @@ This repo supplements a course on sequential data processing taught at Skoltech 
   - [ ] Lecture: Intro to sequential data
   - [ ] Seminar: Python for data mining
 
-- __Day 2__ Machine learning-based approaches to forecasting: keep it simple
-  - [ ] Lecture: time series data processing
+- __Day 2__ Machine learning-based approaches to forecasting: trend modeling
+  - [ ] Lecture: time series data processing, trend and stochastic models
   - [ ] Seminar: classic ML for time series
-  - [ ] Homework 1!
   
-- __Day 3__ Statistical perspective from ARIMA and other guys: keep it interpretable
+- __Day 3__ Statistical perspective from ARIMA and other guys: stochastic models
   - [ ] Lecture: ARIMA, uncertainty estimates
   - [ ] Seminar: statmodels library for ARIMA etc.
   
-- __Day 4__ Neural networks perspective from RNN and other guys: turn on long memory and more layers
+- __Day 4__ Neural networks perspective of sequence processing: NN basics
+  - [ ] Lecture: Basics of NNs
+  - [ ] Seminar: NN-based sequence processing
+  
+- __Day 5__ Neural networks perspective of sequence processing: LSTM and GRU
   - [ ] Lecture: RNN & LSTM
   - [ ] Seminar: NN-based sequence processing
-  - [ ] Homework 2!
-  
-- __Day 5__ Where does it go? Another problem statements related to sequence data processing
-  - [ ] Lecture: Another problem statements and perspectives in various areas
-  - [ ] Seminar: Change point or anomaly detection
-  - [ ] Homework 3!
+
+- __Day 6__ Neural networks perspective of sequence processing: attention & transformers
+  - [ ] Lecture: Attention & transformers
+  - [ ] Seminar: Attention & transformers
+
+- __Day 7__ Anomaly detection for sequences
+  - [ ] Lecture: Anomaly detection: problem statement and methods
+  - [ ] Seminar: Changepoint detection
+
 
 <!---
 ## Main sources used

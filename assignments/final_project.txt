@@ -1,0 +1,43 @@
+Dear all,
+
+ 
+
+Our class has come to an end. We hope you have acquired tools that will be valuable for you in your future endeavors.
+
+ 
+
+To finish the course, we want you to be hands-on. The final project and main criteria to complete this class consists of the following:
+
+Deliverable 1
+
+- Form groups on canvas of up to 2 participants, you can also work individually. You are not allowed to collaborate between teams.
+- Find a dataset consisting of sequential data (i.e., univariate time series, DNA sequences, text) that you consider interesting and relevant for your work.
+- The dataset must be publicly available. We should be able to find it with a simple search on a search engine.
+- Work on the dataset, your task will be to forecast the next value (t+1) using at least two techniques learned during class such as exponential smoothing, LSTM, GRU, and Transformer.
+- Use the processing techniques discussed in class, such as log normalization.
+- Use the techniques to generate features for the time series such as windows
+- Train your models with the methods discussed in class, such as a 1-step moving window.
+- Compute the error of your model with one of the metrics discussed in class such as RMSE, MSE or MAPE
+- Plot the results
+- This should be done in a notebook available for Google Colab. In the submission, please share a link to the notebook
+
+Separately, you will need to create a presentation (Deliverable 2) discussing your results with the following characteristics:
+
+- It can have any length
+- It should explain your motivation for choosing the dataset
+- You should address why you selected a specific model
+- You should state your choice of architecture
+- You should also mention how did you choose the initialization values for the hyperparameters
+- You should elaborate on the results of your models
+- It should also clearly specify the contribution of each member in your team, in case you have one
+- Please upload the file (ppt or pdf) to Canvas
+
+You must learn from your classmates, and you share best practices. Therefore, you will also need to review and provide feedback for two projects (Deliverable 3). The peer-review will be anonymous. Please provide relevant advice to your peers.
+
+ 
+
+Deliverables 1 and 2 are due to Tuesday the 4th of February 23:59. Deliverable 3 is due Wednesday, the 5th of February.
+
+ 
+
+We hope that this assignment helps you solidify the concepts learned over the last couple of weeks. Please start with your work at the nearest possibility and do not hesitate to contact us with any questions.
