@@ -3,7 +3,7 @@
 
 # Sequential data mining
 
-This repo supplements an ISP course on sequential data processing taught at Skoltech in @january'20.
+This repo supplements an ISP course on sequential data processing taught in @january'20.
 
 ## General info
 * Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/likzet/sequential_data_mining/issues)
